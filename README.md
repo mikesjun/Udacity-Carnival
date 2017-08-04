@@ -1,5 +1,5 @@
 # Udacity-Carnival
-Mobile VR Carnival
+Michael Jun - Course 1 - Project Carnival
 
 Unity 5.6.1p2 
 
